@@ -1,0 +1,30 @@
+{
+  "name": "mgya",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.html",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.24.0",
+    "babelify": "^7.3.0",
+    "browserify": "^14.1.0",
+    "gulp": "^3.9.1",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chepiga1995/MGYA.git"
+  },
+  "author": "Yura Chepiga",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chepiga1995/MGYA/issues"
+  },
+  "homepage": "https://github.com/chepiga1995/MGYA#readme"
+}
